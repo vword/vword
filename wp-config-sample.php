@@ -15,7 +15,7 @@
  *
  * @link https://codex.wordpress.org/Editing_wp-config.php
  *
- * @package WordPress
+ * @package WordPresss
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
@@ -23,7 +23,7 @@
 define('DB_NAME', 'vword_db');
 
 /** MySQL database username */
-define('DB_USER', '');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
